@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Brew Page Checker
 // @namespace    https://example.com
-// @version      0.4
+// @version      0.4.1
 // @description  Outputs 1 to the console when on the brew.sh page.
 // @author       Your name
 // @match        https://brew.sh/*
