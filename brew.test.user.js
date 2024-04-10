@@ -7,8 +7,8 @@
 // @match        https://brew.sh/*
 // @grant        none
 // @homepageURL  https://github.com/Eguiste/userscripts/blob/main/brew.test.user.js
-// @updateURL    https://raw.githubusercontent.com/Eguiste/userscripts/main/brew.test.user.js
-// @downloadURL  https://raw.githubusercontent.com/Eguiste/userscripts/main/brew.test.user.js
+// @updateURL    https://raw.githubusercontent.com/Eguiste/userscripts/main/brew.test.user.js?token=GHSAT0AAAAAACQ2FL5EWJTBJBC33USANVZYZQW5CQQ
+// @downloadURL  https://raw.githubusercontent.com/Eguiste/userscripts/main/brew.test.user.js?token=GHSAT0AAAAAACQ2FL5EWJTBJBC33USANVZYZQW5CQQ
 // ==/UserScript==
 
 console.log(1)
