@@ -1,1 +1,15 @@
+// ==UserScript==
+// @name         Brew Page Checker
+// @namespace    https://example.com
+// @version      0.1
+// @description  Outputs 1 to the console when on the brew.sh page.
+// @author       Your name
+// @match        https://brew.sh/*
+// @require      https://code.jquery.com/jquery-3.6.0.min.js
+// @grant        none
+// @homepageURL  https://github.com/Eguiste/userscripts/blob/main/brew.test.user.js
+// @updateURL    https://raw.githubusercontent.com/Eguiste/userscripts/main/brew.test.user.js
+// @downloadURL  https://raw.githubusercontent.com/Eguiste/userscripts/main/brew.test.user.js
+// ==/UserScript==
+
 console.log(1)
